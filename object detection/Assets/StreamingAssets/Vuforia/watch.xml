@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<QCARConfig>
+<Tracking>
+<ModelTarget name="watch"/>
+
+</Tracking>
+
+<Assembly name="watchs_assembly" assemblyId="1c5ac8c6399c41978ee5fce367765344">
+<Part name="watch" translation="0 0 0" rotation="AD: 0 0 1 0"/>
+<EntryPoint name="viewpoint_0000" translation="-0.0207569 2.29278 18.5295" rotation="AD: 0.9999999986971503 0.003922615979398766 -0.013548917495851265 212.29">
+
+</EntryPoint>
+
+</Assembly>
+
+</QCARConfig>

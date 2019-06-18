@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<QCARInfo>
+<TargetSet version="14.0" toolVersion="7.0.0">
+<ModelTarget name="watch" targetId="44a2b067eb86412abb486c265c88c321" version="11.0" toolVersion="3.0.0" bbox="-2.082201 -1.294663 -3.401501 2.025629 7.070890 3.956535" previewImage="44a2b067eb86412abb486c265c88c321_preview.jpg"/>
+
+</TargetSet>
+
+<Assembly name="watchs_assembly" assemblyId="1c5ac8c6399c41978ee5fce367765344">
+<Part name="watch" translation="0 0 0" rotation="AD: 0 0 1 0"/>
+<EntryPoint name="viewpoint_0000" translation="-0.0207569 2.29278 18.5295" rotation="AD: 0.9999999986971503 0.003922615979398766 -0.013548917495851265 212.29" image="watch_viewpoint_0000.png">
+
+</EntryPoint>
+
+</Assembly>
+
+</QCARInfo>
